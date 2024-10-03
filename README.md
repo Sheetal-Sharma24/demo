@@ -1,2 +1,2 @@
 # demo
-this a first demo project.
+this a first demo project..
